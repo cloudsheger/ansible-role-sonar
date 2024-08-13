@@ -1,0 +1,7 @@
+# settings.yaml
+box_name: "bento/ubuntu-22.04"
+vm:
+- name: "sonar"
+  ip: "192.168.201.13"
+  memory: "2048"
+  cpus: "1"
